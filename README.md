@@ -1,8 +1,5 @@
 # multi-perspective-fraud-detection
 
-
-# multi-perspective-fraud-detection
-
 💻 E-Commerce Fraud Detection Using Machine Learning and Process Mining
 📜 Abstract
 With the rise of e-commerce platforms, fraudulent transactions have also surged. Traditional detection methods often lack dynamic and contextual awareness, making them ineffective against modern fraud schemes. This project introduces an innovative fraud detection system that integrates machine learning (SVM, Decision Trees, etc.) with process mining techniques to detect and prevent fraud in real time. Our system provides multi-perspective analysis by monitoring user behavior and analyzing deviations from normal workflows.
